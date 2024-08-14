@@ -5,4 +5,5 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.19
-redis-7.4.0:7.4.0
+nginx:1.25.3
+mysql:8.0.38
