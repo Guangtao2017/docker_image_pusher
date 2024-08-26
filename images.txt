@@ -11,4 +11,4 @@ mysql:8.0.38
 redis:7.2.4
 redis:7.4.0
 #docker可视化管理工具
-portainer-ce:latest
+portainer-ce
